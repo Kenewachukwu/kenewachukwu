@@ -13,3 +13,5 @@ coverage
 build
 dist
 .env
+*.processed
+Landing Page Mockup.psd
